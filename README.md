@@ -16,7 +16,7 @@ Also, as a media editor, it is important for us to know what content readers are
 3. Late stage: Find a story point: how to attract readers' attention through the topic<br>
 
 ## Quick pointers to key files
-1. Repo:[Final Report](https://github.com/Graceyit/BigData-Final-Project-woshipm.com/blob/master/Data%20presentation/woshipm.com%20Final%20Report.pdf)<br>
+1. Repo: [Final Report](https://github.com/Graceyit/BigData-Final-Project-woshipm.com/blob/master/Data%20presentation/woshipm.com%20Final%20Report.pdf)<br>
 2. CSV: [All data](https://github.com/Graceyit/BigData-Final-Project-woshipm.com/tree/master/%E4%BA%BA%E4%BA%BA%E9%83%BD%E6%98%AF%E4%BA%A7%E5%93%81%E7%BB%8F%E7%90%86)<br>
 3. Data Analysis:<br>
 Part 1 - [Overview](https://github.com/Graceyit/BigData-Final-Project-woshipm.com/tree/master/Data%20analysis%20P1)<br>
